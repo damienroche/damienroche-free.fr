@@ -1,0 +1,17 @@
+{
+  "name": "gridsome-starter",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "tailwindcss": "^1.2.0"
+  },
+  "devDependencies": {
+    "gridsome-plugin-pug": "^0.0.3",
+    "pug": "^2.0.4"
+  }
+}
